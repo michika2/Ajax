@@ -59,3 +59,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+学生管理システム（Laravel）
+主な機能
+・管理ユーザーの新規登録、ログイン
+・学生一覧表示、検索
+・学生新規登録
+・学生情報編集、削除
+・成績登録、編集、削除
